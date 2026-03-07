@@ -1,0 +1,1 @@
+en este archivo daremos explicacion de los conceptos, ademas de mostrar pantallazos de como se ve el codigo en consola.
