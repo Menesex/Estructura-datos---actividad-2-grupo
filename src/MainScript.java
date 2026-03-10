@@ -10,6 +10,7 @@ class Pila {
     public boolean isEmpty() { return tope == -1; }
 }
 
+// clase principal!
 public class MainScript {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
