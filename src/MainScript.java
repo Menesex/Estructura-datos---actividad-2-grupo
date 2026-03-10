@@ -34,7 +34,7 @@ class Pila {
         return cima == null;
     }
 }
-
+//main class
 public class MainScript {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
