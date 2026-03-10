@@ -1,4 +1,5 @@
-# ( EA1.2) Actividad - Simulador Undo/Redo con Pilas (Stacks)
+# ( EA1.2) Actividad
+### Simulador Undo/Redo con Pilas (Stacks)
 
 ### 📖 Fundamentación Teórica (Unidad 2)
 Según el material de estudio de la Unidad 2, una **Pila** es una lista que permite almacenar y recuperar datos bajo el principio **LIFO** (*Last In First Out*), es decir, el último elemento en entrar es el primero en salir. 
